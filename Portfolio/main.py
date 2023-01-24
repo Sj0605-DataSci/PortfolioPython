@@ -52,7 +52,7 @@ def local_css(file_name):
 
 local_css("style/style.css")
 
-profile_pic = Image.open("Images/profilephoto.jpeg")
+profile_pic = Image.open("Portfolio/Images/profilephoto.jpeg")
 
 # st.markdown("""
 #     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
@@ -68,7 +68,7 @@ def load_lottieurl(url):
 lottie_coding = load_lottieurl("https://assets5.lottiefiles.com/packages/lf20_tfb3estd.json")
 
 
-pdfFileObj = open('pdfs/SanyamCV.pdf', 'rb')
+pdfFileObj = open('Portfolio/pdfs/SanyamCV.pdf', 'rb')
 
 def home():
     col1, col2 = st.columns(2, gap="small")
@@ -202,7 +202,7 @@ def about_me():
 
 def timeline1():
     st.write("Here's a summary of my education and work experience:")
-    with open("timeline.json", "r") as f:
+    with open("Portfolio/timeline.json", "r") as f:
         timeline_data = json.load(f)
 
     timeline(timeline_data, height=500)
