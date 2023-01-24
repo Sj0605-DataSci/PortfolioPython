@@ -1,0 +1,119 @@
+{
+    "title": {
+        "text": {
+          "headline": "My <br> Education"
+        }
+    },
+    "events": [
+      {
+         "media": {
+          "url": "https://openlogic.b-cdn.net/wp-content/uploads/2019/09/spsrohini.net_-1200x480.jpg"
+
+        },
+        "start_date": {
+          "year": "2008"
+        },
+        "end_date": {
+          "year": "2020"
+        },
+        "text": {
+          "headline": "Sachdeva Public School",
+          "text": "<br/><p> Completed my 10 th and 12 th with a total percentage of 96%.</p><br/>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://img.collegedekhocdn.com/media/img/institute/crawled_images/NSDL_MOU.jpg"
+
+        },
+        "start_date": {
+          "year": "2020"
+        },
+        "end_date": {
+          "year": "2024"
+        },
+        "text": {
+          "headline": "Manipal University Jaipur",
+          "text": "<br/><p>Ongoing BTech in CSE with 8.25 cgpa.</p><br/>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://images.hindustantimes.com/img/2022/05/04/550x309/IIT_Madras_1651654567694_1651654575671.JPG"
+
+        },
+        "start_date": {
+          "year": "2021"
+        },
+        "end_date": {
+          "year": "2025"
+        },
+        "text": {
+          "headline": "Indian Institute of Technology Madras",
+          "text": "<br/><p>Ongoing BS in Data Science and its Applications with 8.5 cgpa.</p><br/>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://institutes.aglasem.com/wp-content/uploads/2019/12/screenshot-www.tnmgrmu.ac_.in-2019.11.23-12_41_05-17.jpg"
+
+        },
+        "start_date": {
+          "year": "2023"
+        },
+        "text": {
+          "headline": "Delhi Technological University ( DCE )",
+          "text": "<br/><p>Ongoing Research with Rahul Kataria Sir and Anjum mam.</p><br/>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQHz2V80FSEryQ/company-logo_200_200/0/1655966149028?e=1678320000&v=beta&t=XEz6gx8pkcTRJQQG_GotwrPN3XZQhny2-zvIiiRubM0"
+
+        },
+        "start_date": {
+          "year": "2022",
+          "month": "11"
+        },
+        "end_date": {
+          "year": "2023",
+          "month": "1"
+        },
+        "text": {
+          "headline": "Neet Navigator",
+          "text": "<br/><p>Data Scientist Intern at a medical councelling startup.</p><br/>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://img.collegedekhocdn.com/media/img/institute/crawled_images/NSDL_MOU.jpg"
+
+        },
+        "start_date": {
+          "year": "2022"
+        },
+        "text": {
+          "headline": "Manipal University Jaipur",
+          "text": "<br/><p>Ongoing Research with my CSE School Director, have also published a patent under the name (SYSTEM AND METHOD FOR GENERATING AUDIO INFORMATION TO GUIDE A VISUALLY IMPAIRED USER).</p><br/>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-153904,resizemode-1,msid-95301357/industry/services/education/iit-delhi-expands-its-campus-new-curriculum-and-abu-dhabi-campus-on-cards.jpg"
+
+        },
+        "start_date": {
+          "month": "6",
+          "year": "2022"
+        },
+        "end_date": {
+          "month": "7",
+          "year": "2022"
+        },
+        "text": {
+          "headline": "Indian Institute of Delhi",
+          "text": "<br/><p>It was more of an apparenticeship where I learnt Ml and made a project on same.</p><br/>"
+        }
+      }
+    ]
+}
