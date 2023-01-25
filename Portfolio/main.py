@@ -1,7 +1,6 @@
 import streamlit as st
 from streamlit_timeline import timeline
 import json
-from streamlit_lottie import st_lottie
 import requests
 from PIL import Image
 import streamlit.components.v1 as components
