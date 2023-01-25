@@ -72,7 +72,7 @@ def home():
 
 
     with col2:
-        st.title(NAME)
+        st.header(NAME)
         st.write(DESCRIPTION)
         st.download_button(
             label=" 📄 Download Resume",
