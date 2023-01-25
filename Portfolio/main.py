@@ -53,10 +53,6 @@ local_css("Portfolio/style/style.css")
 
 profile_pic = Image.open("Portfolio/Images/profilephoto.jpeg")
 
-st.markdown("""<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
- """, unsafe_allow_html=True)
 
 # Create a function for the home page
 def load_lottieurl(url):
@@ -70,9 +66,9 @@ lottie_coding = load_lottieurl("https://assets5.lottiefiles.com/packages/lf20_tf
 pdfFileObj = open('Portfolio/pdfs/SanyamCV.pdf', 'rb')
 
 def home():
-    col1, col2 = st.columns(2,gap="small")
+    col1, col2 = st.columns(2)
     with col1:
-        st.image(profile_pic, width=200)
+        st.image(profile_pic, width=150)
 
 
     with col2:
