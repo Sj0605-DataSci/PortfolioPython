@@ -70,7 +70,7 @@ lottie_coding = load_lottieurl("https://assets5.lottiefiles.com/packages/lf20_tf
 pdfFileObj = open('Portfolio/pdfs/SanyamCV.pdf', 'rb')
 
 def home():
-    col1, col2 = st.columns(2, gap="small")
+    col1, col2 = st.columns(2)
     with col1:
         st.image(profile_pic, width=200)
 
