@@ -25,6 +25,7 @@ PROJECTS = {
     "🏆 Movie Recommendation Engine  - ( Content Based )": "https://sj0605-datasci-movie-recommendation-enginer-app-pz6074.streamlit.app/",
     "🏆 GeoSpatial Analysis using Python - use geospatial analysis to make decisions about opening up new restaurants(or retail stores, bank branches, airports, etc)": "https://github.com/Sj0605-DataSci/GeoSpatial-Analysis",
     "🏆 Voice bot with GUI - simple to use voice assistant which greets you according to your local time and I have tried my best to automate everything via it by using selenium": "https://github.com/Sj0605-DataSci/Jarvis-Voice-Assistant",
+    "🏆 Auto EDA and ML App - simple app in which one can upload data and app will do EDA and will provide best model based on the task":"https://sj065-automation.streamlit.app/"
 }
 
 
