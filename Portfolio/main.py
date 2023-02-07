@@ -78,7 +78,7 @@ def home():
         st.download_button(
             label=" 📄 Download Resume",
             data=pdfFileObj,
-            file_name='SanyamCV.pdf',
+            file_name='Sanyam Resume.pdf',
             mime='pdf',
         )
         st.write("📫", EMAIL)
