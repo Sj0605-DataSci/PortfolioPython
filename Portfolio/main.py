@@ -64,7 +64,7 @@ def load_lottieurl(url):
 lottie_coding = load_lottieurl("https://assets5.lottiefiles.com/packages/lf20_tfb3estd.json")
 
 
-pdfFileObj = open('Portfolio/pdfs/SanyamCV.pdf', 'rb')
+pdfFileObj = open('Portfolio/pdfs/SanyamResume.pdf', 'rb')
 
 def home():
     col1, col2 = st.columns(2)
