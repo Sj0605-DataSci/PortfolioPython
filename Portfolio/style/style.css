@@ -4,12 +4,6 @@
 * {font-family: 'Readex Pro';}
 
 
-a {
-    text-decoration: none;
-    color: white !important;
-    font-weight: 500;
-}
-
 a:hover {
     color: #d33682 !important;
     text-decoration: none;
@@ -17,10 +11,6 @@ a:hover {
 
 ul {list-style-type: none;}
 
-hr {
-    margin-top: 0px;
-    margin-bottom: 5%;
-}
 
 #MainMenu {visibility: hidden;}
 footer {visibility: hidden;}
